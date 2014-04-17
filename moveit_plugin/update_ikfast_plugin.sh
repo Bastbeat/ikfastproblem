@@ -1,0 +1,1 @@
+rosrun moveit_ikfast create_ikfast_moveit_plugin.py motoman_mh5 planning_group moveit_plugin /home/ismael/catkin_workspace/src/moveit_plugin/src/motoman_mh5_planning_group_ikfast_solver.cpp
